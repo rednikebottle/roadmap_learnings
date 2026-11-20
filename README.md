@@ -10,6 +10,11 @@ The repo is split into multiple folders, one for each roadmap or topic I'm worki
 - **Notes**: what I've learned along the way
 - **Projects & exercises**: the things I've built or done to practice
 
+## Roadmaps
+
+- [Frontend](frontend-roadmap/): in progress
+- [Python](python-roadmap/): completed, cleanup pending
+
 ## Side projects
 
 - [Saigon Ride Calculator](random-side-project/): Grab fare estimator for Ho Chi Minh City ([live](https://rednikebottle.github.io/roadmap_learnings/random-side-project/))
