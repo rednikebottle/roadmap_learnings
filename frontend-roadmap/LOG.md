@@ -18,3 +18,9 @@ A short dated entry every time I study. Newest entries go at the top.
 - What I did: Eloquent JavaScript chapter 2 (Program Structure) exercises: looping a triangle, FizzBuzz and chessboard.
 - What I learned:
 - Still confused about:
+
+## 2026-11-21
+- What I did: Eloquent JavaScript chapter 3 (Functions) exercises: minimum, recursion, bean-counting
+- What I learned: nothing new, just javascript syntax
+- Still confused about:
+
